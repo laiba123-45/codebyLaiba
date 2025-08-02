@@ -1,2 +1,2 @@
 # codebyLaiba
-This my starti Repo
+This my starting of Repository journey
